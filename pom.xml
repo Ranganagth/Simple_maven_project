@@ -14,7 +14,7 @@
         <maven.compiler.target>11</maven.compiler.target>
     </properties>
     <build>
-        <finalName>Simple_maven_project</finalName>
+        <finalName>simple_maven_project</finalName>
     </build>
 
 </project>
